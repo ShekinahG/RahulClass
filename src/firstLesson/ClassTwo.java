@@ -16,6 +16,10 @@ public class ClassTwo {
 			    System.out.println(driver.getTitle());
 			    System.out.println(driver.getTitle());
 			    System.out.println(driver.getTitle());
+			    
+			    System.out.println("me git training");
+			    System.out.println("me git training");
+			    System.out.println("me git training");
 
 	}
 
