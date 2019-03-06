@@ -13,6 +13,9 @@ public class ClassTwo {
 				WebDriver driver = new FirefoxDriver();
 				driver.get("http://Apple.com");
 			    System.out.println(driver.getTitle());
+			    System.out.println(driver.getTitle());
+			    System.out.println(driver.getTitle());
+			    System.out.println(driver.getTitle());
 
 	}
 
